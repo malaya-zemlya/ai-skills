@@ -1,0 +1,17 @@
+{
+  "name": "human-plan",
+  "version": "1.0.0",
+  "description": "Implementation plans a human can meaningfully review and approve. Requirements elicitation one question at a time, a plan template held to the two-developers test, and an adversarial critic pass before you ever see the draft.",
+  "keywords": [
+    "planning",
+    "design-doc",
+    "implementation-plan",
+    "code-review",
+    "requirements",
+    "specification"
+  ],
+  "author": {
+    "name": "punkfloyd",
+    "email": "odopertchouk@gmail.com"
+  }
+}

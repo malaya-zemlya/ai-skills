@@ -1,0 +1,23 @@
+{
+  "name": "ai-skills",
+  "description": "Agent skills and plugins for Claude Code.",
+  "owner": {
+    "name": "malaya-zemlya",
+    "url": "https://github.com/malaya-zemlya"
+  },
+  "plugins": [
+    {
+      "source": "./human-plan",
+      "name": "human-plan",
+      "description": "Implementation plans a human can meaningfully review and approve, instead of goal-oriented task lists.",
+      "category": "planning",
+      "keywords": [
+        "planning",
+        "design-doc",
+        "implementation-plan",
+        "requirements",
+        "code-review"
+      ]
+    }
+  ]
+}
