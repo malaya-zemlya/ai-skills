@@ -1,6 +1,6 @@
 # ai-skills
 
-Agent skills and plugins for [Claude Code](https://claude.com/claude-code), published as a plugin marketplace.
+My personal collection of [Claude Code](https://claude.com/claude-code) plugins and agent skills, published as a plugin marketplace so they install in one step.
 
 ## Install
 
